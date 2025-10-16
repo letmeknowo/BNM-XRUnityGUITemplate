@@ -1,6 +1,6 @@
 # XRUnityGUITemplate - star this repo!!
-Old leaked SPM Gui remade by Ossuary, Mr.E, and JaeAPK. If you use this please credit these people ->[Credits](https://roflhub.vercel.app/XRGui.html)
-And please join the discord server at the bottom!!!
+
+Old Leaked SPM GUI remade into a Template, by these people ->[Credits](https://roflhub.vercel.app/XRGui.html)
 --
 # How to add files
 Put all of these files in your Include folder and add Include/GUI/ModGUI.cpp & Include/GUI/GUISettings.cpp to your CMakeLists. 
@@ -21,14 +21,10 @@ void new_LateUpdate(void* instance) {
 
 - [BNMResolve](https://github.com/Livku2/BNMResolve)
 - [BNM-Android](https://github.com/ByNameModding/BNM-Android)
-
-# Help
-If you need help with coding or this GUI Temp.
-
-Join My Discord - [Discord Link](https://discord.gg/Jn2tBbNNfj)
 --
 
 This code is allowed to be used by anyone, just credit the people in the credits.
+
 
 
 
