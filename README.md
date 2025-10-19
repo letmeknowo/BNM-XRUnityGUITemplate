@@ -21,9 +21,11 @@ void new_LateUpdate(void* instance) {
 
 - [BNMResolve](https://github.com/Livku2/BNMResolve)
 - [BNM-Android](https://github.com/ByNameModding/BNM-Android)
+  
 --
 
 This code is allowed to be used by anyone, just credit the people in the credits.
+
 
 
 
